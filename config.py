@@ -1,0 +1,1 @@
+tk_bot = "8340949158:AAGv4KvfUtFGGbsyPTWwBHMN5dNFPGebf18"
